@@ -36,7 +36,8 @@ Do not execute this VM on production networks or connect it to the Internet. The
 > It means you won't have access to file-copy or the clipboard. <br/>
 > However, you can bypass this restriction with RDP, and gain smoother UI in bonus. <br/>
 
-- Enable RDP on the virtual machine and make a connection profile on your host
+- Add a password to your target user, or you won't be able to RDP
+- Enable RDP in the target system settings and make a connection profile on your host
 
 **Finally, take a snapshot of your system to have a clean state reset when you need to**
 
