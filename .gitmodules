@@ -1,21 +1,21 @@
-[submodule "O-OSU10"]
+[submodule "misc/O-OSU10"]
 	path = misc/O-OSU10
 	url = https://github.com/Texbio/O-OSU10
-[submodule "pafish"]
+[submodule "stealth/pafish"]
 	path = stealth/pafish
 	url = https://github.com/a0rtega/pafish
-[submodule "VmwareHardenedLoader"]
+[submodule "stealth/VmwareHardenedLoader"]
 	path = stealth/VmwareHardenedLoader
 	url = https://github.com/hzqst/VmwareHardenedLoader
-[submodule "PMAT-labs"]
+[submodule "samples/PMAT-labs"]
 	path = samples/PMAT-labs
 	url = https://github.com/HuskyHacks/PMAT-labs
-[submodule "theZoo"]
+[submodule "samples/theZoo"]
 	path = samples/theZoo
 	url = https://github.com/ytisf/theZoo
-[submodule "flare-vm"]
+[submodule "environment/flare-vm"]
 	path = environment/flare-vm
 	url = https://github.com/mandiant/flare-vm
-[submodule "windows-defender-remover"]
+[submodule "environment/windows-defender-remover"]
 	path = environment/windows-defender-remover
 	url = https://github.com/ionuttbara/windows-defender-remover
