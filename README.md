@@ -15,7 +15,7 @@ Do not execute this VM on production networks or connect it to the Internet. The
 - Minimum 8 GB RAM, 65 GB free disk space
 - Host OS: Windows, Linux, or macOS
 - Target OS: Windows 11
-- Highly recommended : RDP client
+- Highly recommended: RDP client
 
 ## How to use
 
@@ -31,7 +31,7 @@ Do not execute this VM on production networks or connect it to the Internet. The
 - Launch `install.ps1`. It will run tests for VM detection, launch the install menu for Flare-VM and add Malware sample folders to your Desktop
 - Open your VM settings and change the network adapter mode to `Host-only`, it will prevent malware to spread on your network
 
-**Highly recommended**
+**Highly recommended:**
 > You won't be able to install VMWare-Tools because the installer will think you're on a real machine <br/>
 > It means you won't have access to file-copy or the clipboard. <br/>
 > However, you can bypass this restriction with RDP, and gain smoother UI in bonus. <br/>
@@ -47,7 +47,7 @@ Do not execute this VM on production networks or connect it to the Internet. The
 **Always use Host-Only otherwise**.<br/>
 - 💡Consider creating additional snapshots before conducting experiments.
 
-## Used Tools
+## Used tools
 
 **Environment**
 - Flare-VM - Google's environment install script for malware analysis and reverse engineering
@@ -64,14 +64,14 @@ Do not execute this VM on production networks or connect it to the Internet. The
 **Misc**
 - OOShutUp10 - Gets rid of annoying Windows telemetry
 
-## Additional Interesting tools
+## Additional interesting tools
 > I didn't add these tools (yet)
 - MitmProxy - Can be used for network analysis
 - REMnux VM - Linux environment for malware analysis (set up a VPN for cross-VM analysis)
     - INetSim - Simulates http responses for malware requests
 - BurpSuite - Http interception and packet manipulation
 
-## Additional resources
+## Websites for malware analysis
 
 - [Vx-database](https://virus.exchange/) - Samples database
 - [VirusTotal](https://www.virustotal.com/gui/home/upload) - Check signatures
