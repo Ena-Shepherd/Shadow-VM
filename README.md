@@ -86,4 +86,3 @@ Do not execute this VM on production networks or connect it to the Internet. The
 
 ## Special thanks 🎉
 - Humpty and the <a href="https://discord.gg/hYa9gvD8vw">IRCC discord server</a>
-- Internet Archive for hosting the very large VM files
